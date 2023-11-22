@@ -1,0 +1,7 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+ul.MuiList-root{
+  margin-top: 1px;
+  padding: 0;
+}

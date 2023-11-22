@@ -1,0 +1,33 @@
+.hoverButton{
+    transition: .4s;
+    &:hover{
+        color: red;
+        transform: rotate(180deg);
+    }
+}
+.parent{
+
+    transition: 5s;
+    // .showlinks{
+        .links{
+                display: none;
+                .list{
+                
+                    transition: 5s;
+                    // .showlinks{
+                        .linklist{
+                                display: none;
+                            }
+                        
+                        &:hover .linklist{
+                            display: block;
+                        }  
+                        // }
+                }
+            }
+        
+        &:hover .links{
+            display: block;
+        }  
+        // }
+}

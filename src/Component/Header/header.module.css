@@ -1,0 +1,26 @@
+.hoverButton {
+  transition: 0.4s;
+}
+.hoverButton:hover {
+  color: red;
+  transform: rotate(180deg);
+}
+
+.parent {
+  transition: 5s;
+}
+.parent .links {
+  display: none;
+}
+.parent .links .list {
+  transition: 5s;
+}
+.parent .links .list .linklist {
+  display: none;
+}
+.parent .links .list:hover .linklist {
+  display: block;
+}
+.parent:hover .links {
+  display: block;
+}/*# sourceMappingURL=header.module.css.map */

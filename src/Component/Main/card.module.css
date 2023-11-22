@@ -1,0 +1,5 @@
+.hover:hover img {
+  transition: 0.5s;
+  scale: 1.02;
+  rotate: 2deg;
+}/*# sourceMappingURL=card.module.css.map */

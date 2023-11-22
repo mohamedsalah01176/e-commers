@@ -1,0 +1,9 @@
+.hover{
+    &:hover{
+        img{
+            transition: .5s;
+            scale:1.02;
+            rotate: 2deg;
+        }
+    }
+}
