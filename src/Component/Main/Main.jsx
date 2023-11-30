@@ -123,9 +123,9 @@ export default function Main() {
                                     <p className="card-text text-danger fs-4 m-0">20.99</p>
                                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In vel, voluptatum nam placeat tempora dolores maiores alias mollitia, expedita provident ea facere perspiciatis sapiente autem dolore quos ad id perferendis!</p>
                                     <div className="images" style={{display:"flex",gap:"5px" ,width:"100px"}} >
-                                        <img src="images\t-shirts-products\5\1 (5).jpg" alt=""  className='w-100'/>
+{/*                                         <img src="images\t-shirts-products\5\1 (5).jpg" alt=""  className='w-100'/>
                                         <img src="images\t-shirts-products\5\1 (6).jpg" alt="" className='w-100' />
-                                        <img src="images\t-shirts-products\5\100.jpg" alt="" className='w-100' />
+                                        <img src="images\t-shirts-products\5\100.jpg" alt="" className='w-100' /> */}
                                     </div>
                                     <div style={{display:"flex",justifyContent:"center"}}> 
                                         <Button className="bg-primary mt-2 d-block"  style={{color:them.palette.iconColor.main,} }><i className="fa-solid fa-cart-shopping fs-5"></i> Buy Now</Button>
@@ -144,9 +144,9 @@ export default function Main() {
                                     <p className="card-text text-danger fs-4 m-0">20.99</p>
                                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In vel, voluptatum nam placeat tempora dolores maiores alias mollitia, expedita provident ea facere perspiciatis sapiente autem dolore quos ad id perferendis!</p>
                                     <div className="images" style={{display:"flex",gap:"5px" ,width:"100px"}} >
-                                        <img src="images\t-shirts-products\5\1 (5).jpg" alt=""  className='w-100'/>
+{/*                                         <img src="images\t-shirts-products\5\1 (5).jpg" alt=""  className='w-100'/>
                                         <img src="images\t-shirts-products\5\1 (6).jpg" alt="" className='w-100' />
-                                        <img src="images\t-shirts-products\5\100.jpg" alt="" className='w-100' />
+                                        <img src="images\t-shirts-products\5\100.jpg" alt="" className='w-100' /> */}
                                     </div>
                                     <div style={{display:"flex",justifyContent:"center"}}>
                                         <Button className="bg-primary mt-2 d-block"  style={{color:them.palette.iconColor.main,} }><i className="fa-solid fa-cart-shopping fs-5"></i> Buy Now</Button>
